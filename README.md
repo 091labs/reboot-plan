@@ -33,6 +33,11 @@ We need to revamp the website and get full control of the 091labs.com domain.
 
 We need media packs to hand out.
 
+We also need basic elements of branding in an easily consumable form:
+ - Logo files
+ - Slide templates
+ - Video intro animation & sound clip
+
 ### Fundraising
 
 We need funds to do this.
@@ -55,7 +60,7 @@ We need a Premesis, preferably with a shop window front and fairly central. Ther
 
 ### Membership Drive
 
-We need members. A ball park figure for running clubs in Galway is €40 per month membership. 
+We need members. A ball park figure for running clubs in Galway is €40 per month membership.
 
 
 
