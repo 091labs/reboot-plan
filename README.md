@@ -14,7 +14,7 @@ This repository contains the program for rebooting the 091 Labs Hackerspace.
 * Accounts
 * Constitution
 * Organisational Structure
-* Premesis
+* Premises
 * Membership Drive
 
 ### Value Proposition
@@ -23,7 +23,7 @@ What do we offer members? Why should they pay a membership fee?
 
 ### Focus
 
-What should 091 Labs focus on? Do we focus on technology based creative project or is there space for us to be broader (eg beer brewing, wood working, biohacking)?
+What should 091 Labs focus on? Do we focus on technology based creative project or is there space for us to be broader (e.g. beer brewing, wood working, biohacking)?
 
 ### Website
 
@@ -37,14 +37,14 @@ We need media packs to hand out.
 
 We need funds to do this.
 
-### Accouts
+### Accounts
 
 Transparency of Accounting is essential, this was an issue before.
 
 ### Constitution
 
 We need to review and update constitution as appropriate.
-
+`
 ### Organisational Structure
 
 We need to review the structure of 091 Labs as an organisation.
