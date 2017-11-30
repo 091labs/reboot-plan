@@ -41,7 +41,7 @@ We need funds to do this.
 
 Transparency of Accounting is essential, this was an issue before.
 
-Stripe.com were contacte last year by Liam and said we could get a "Non for profit" account for 091 labs if we share our constituion.
+Stripe.com were contacted last year by Liam and said we could get a free "Non profit" account for 091 labs if we share our constituion. This would be a good route for collecting membership fees and then publishing csv exports online.
 
 ### Constitution
 
