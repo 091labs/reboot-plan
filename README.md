@@ -46,10 +46,14 @@ We need funds to do this.
 
 Transparency of Accounting is essential, this was an issue before.
 
+Stripe.com were contacted last year by Liam and said we could get a free "Non profit" account for 091 labs if we share our constituion. This would be a good route for collecting membership fees and then publishing csv exports online.
+
 ### Constitution
 
 We need to review and update constitution as appropriate.
-`
+
+Last years's version and the previous one are all here in [Liam's Google Drive](https://drive.google.com/open?id=0Bygd3T-0o7uAMkNjYmU2ZEpJb1k).
+
 ### Organisational Structure
 
 We need to review the structure of 091 Labs as an organisation.

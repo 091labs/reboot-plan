@@ -5,6 +5,9 @@ These are courses we could look at running that people might be interested in.
 ## Web
 * Bootstrap basics
 * Personal web security
+* NodeJS basics
+* ReactJS basics
+* Building a realtime chess game w/ React & Node
 
 ## Programming
 * Android 101
@@ -30,4 +33,6 @@ These are courses we could look at running that people might be interested in.
 * Greenscreen basics
 * Raspberry Pi fundamentals
 * Linux Fundamantals
+
+
 
