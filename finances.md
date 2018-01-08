@@ -8,4 +8,5 @@ markdown format is probably a good start.
 | Date          | Bank | Cash | Outgoings | Income | Future Liabilites |
 | ------------- | ---- | ---- | --------- | ------ | ----------------- |
 | Nov 30th 2017 | 0    | 0    | None      | None   | Rent = 0 Bills =0 Insurance = 0         |
+| Dec 31st 2017 | 0    | 0    | None      | None   | Rent = 0 Bills =0 Insurance = 0         |
 
